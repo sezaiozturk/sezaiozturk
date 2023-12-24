@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sezai</h1>
-<h3>React & React Native Developer</h3>
+<h3>Junior React & React Native Developer</h3>
 
 Hello! My name is Sezai. I'm here driven by my passion for software and technology. Currently, I'm a 4th-year student at Konya Technical University, studying computer science. I have an interest in technologies like React and React Native, and I'm striving to improve my skills in these areas. So far, I've published two different mobile applications on the Google Play Store, one using Kotlin and the other using React Native. Alongside this, I'm developing a personal website to showcase my skills and projects in this field. My future goals involve specializing in mobile development and working on larger-scale projects. I aim to continuously improve myself by sharing experiences here and learning new things. Thanks for your support and following!
 
