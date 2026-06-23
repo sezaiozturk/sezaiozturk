@@ -1,22 +1,21 @@
 <h1>Hi 👋, I'm Sezai</h1>
-<h3>Backend Developer (NestJS & Microservices)</h3>
+<h3>Full-Stack Developer (NestJS • Microservices • React & React Native)</h3>
 
-Hello! My name is Sezai. I'm driven by my passion for software and technology. I have graduated from Konya Technical University with a degree in Computer Science.
+Hello! My name is Sezai. I am a Computer Engineering graduate from Konya Technical University, driven by a deep passion for building scalable software solutions and high-performance architectures.
 
-I am currently focusing on backend development, with a strong interest in NestJS and microservice architecture. I am actively working on improving my skills in building scalable, distributed systems and backend-heavy applications.
+As a Full-Stack Developer, I specialize in bridging the gap between robust backend engines and dynamic, user-centric interfaces. My core technical focus centers on architecting distributed systems with NestJS and Microservices, optimizing data flows using MongoDB Aggregations and Redis Caching, and engineering real-time communication layers with Socket.io and RabbitMQ. 
 
-Previously, I have published two mobile applications on the Google Play Store—one developed with Kotlin and the other with React Native. In addition, I am building a personal website to showcase my projects and technical experience.
+On the client side, I build cross-platform mobile experiences with React Native (including local data management via Realm) and responsive web applications using React. From publishing independent mobile apps on the Google Play Store to maintaining production-level microservice environments, I always prioritize clean code, system stability, and seamless end-to-end integration.
 
-My future goal is to specialize in backend engineering and microservices, contributing to large-scale, high-performance systems. I am continuously improving myself by working on real-world projects and learning new technologies.
+My ongoing goal is to master high-throughput, fault-tolerant architectures while continuously delivering fluid UI/UX experiences. I am always open to collaborating on real-world projects that challenge my engineering skills.
 
-- 🌍 I'm based in İstanbul, Turkiye.
+- 🌍 I'm based in İstanbul, Türkiye.
 
-- 🔭 I’m currently working on Backend Development (NestJS & Microservices)
+- 🔭 I’m currently working on Full-Stack Applications, focusing on NestJS Microservices, Redis Caching, and React Native.
 
-- 🖥️ See my portfolio at https://sezaiozturk.free.nf/
+- 🖥️ See my portfolio at https://sozturk.space
 
-- 🧠 I’m learning NestJS, Microservice Architecture, and Advanced Backend Systems
-
+- 🧠 I’m diving deeper into Advanced Microservices, Message Brokers (RabbitMQ), and Real-Time Data Architectures.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
