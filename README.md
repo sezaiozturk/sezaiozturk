@@ -13,7 +13,7 @@ My ongoing goal is to master high-throughput, fault-tolerant architectures while
 
 - 🔭 I’m currently working on Full-Stack Applications, focusing on NestJS Microservices, Redis Caching, and React Native.
 
-- 🖥️ See my portfolio at https://sozturk.space
+- 🖥️ See my portfolio at [sozturk.space](https://sozturk.space)
 
 - 🧠 I’m diving deeper into Advanced Microservices, Message Brokers (RabbitMQ), and Real-Time Data Architectures.
 
